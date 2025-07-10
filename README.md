@@ -52,7 +52,7 @@ This tool provides:
 MIT
 
 ## Maintainers
-Built by Supriya Kashyap in collaboration with GPT-4 for AI PM portfolio development.
+Supriya Kashyap
 
 # GenAI-eval-monitor
 Open source GenAI usage and evaluation monitor for SMBs on Public cloud [focused on Legal tech use case]
